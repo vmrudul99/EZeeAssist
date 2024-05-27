@@ -33,4 +33,8 @@ To run the Spider and scrape data, execute the following command in your command
 
 ```bash
 scrapy crawl franchisesuppliernetwork -o data_resources_summary.csv
+```
 
+## Output
+
+All the output results will be stored into spider folder location. All the resource subfolders will be named respective to the resources post id and inside those folders you'll find the text and image.

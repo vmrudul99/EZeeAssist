@@ -1,0 +1,18 @@
+Server: nginx
+Date: Mon, 20 May 2024 15:05:07 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Powered-By: WP Engine
+Accept-Ch: Sec-CH-UA-Mobile
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+Link: <https://franchisesuppliernetwork.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://franchisesuppliernetwork.com/wp-json/wp/v2/posts/4374>; rel="alternate"; type="application/json"
+Link: <https://franchisesuppliernetwork.com/?p=4374>; rel=shortlink
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: MISS
+X-Cache-Group: normal
+Content-Encoding: gzip

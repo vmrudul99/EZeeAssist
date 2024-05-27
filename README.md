@@ -24,6 +24,7 @@ To set up the project, follow these steps:
 
     ```bash
     pip install scrapy
+    pip install os
     ```
 
 ## Usage
